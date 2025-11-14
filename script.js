@@ -9,4 +9,4 @@ let student = {
 
 
 
-console.log(student.getKeys(student));
+console.log(student.getKeys());
